@@ -120,8 +120,9 @@ The performance of the **ResNet-34** model under various attacks and transferabi
 
 ### Authors
 
-Kirit Govindaraja Pillai - [kx2222@nyu.edu](mailto:kx2222@nyu.edu)
-Ruochong Wang - [rw3760@nyu.edu](mailto:rw3760@nyu.edu)
-Saketh Raman Ramesh - [sr7714@nyu.edu](mailto:sr7714@nyu.edu)
+* Kirit Govindaraja Pillai - [kx2222@nyu.edu](mailto:kx2222@nyu.edu)
+* Ruochong Wang - [rw3760@nyu.edu](mailto:rw3760@nyu.edu)
+* Saketh Raman Ramesh - [sr7714@nyu.edu](mailto:sr7714@nyu.edu)
 
 ---
+
